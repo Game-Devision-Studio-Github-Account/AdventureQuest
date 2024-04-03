@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cbb8vgwg2ekwf"
+path="res://.godot/imported/Dirt Chain Walk 1.ogg-02bbbf7cff6d958964642c9fe30bb32f.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Footsteps/Dirt/Dirt Chain Walk 1.ogg"
+dest_files=["res://.godot/imported/Dirt Chain Walk 1.ogg-02bbbf7cff6d958964642c9fe30bb32f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

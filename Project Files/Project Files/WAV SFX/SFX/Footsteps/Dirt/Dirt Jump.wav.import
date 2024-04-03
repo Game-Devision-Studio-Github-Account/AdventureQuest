@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://blosf5x0kl2ma"
+path="res://.godot/imported/Dirt Jump.wav-5967dfb4acfd64f6c2181e1d6a995f42.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Footsteps/Dirt/Dirt Jump.wav"
+dest_files=["res://.godot/imported/Dirt Jump.wav-5967dfb4acfd64f6c2181e1d6a995f42.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

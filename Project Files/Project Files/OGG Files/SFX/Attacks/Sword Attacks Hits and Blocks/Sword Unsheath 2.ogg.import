@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b88e8i0mk548e"
+path="res://.godot/imported/Sword Unsheath 2.ogg-ca5d268023e3917bf368bb7e15f55eb3.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Attacks/Sword Attacks Hits and Blocks/Sword Unsheath 2.ogg"
+dest_files=["res://.godot/imported/Sword Unsheath 2.ogg-ca5d268023e3917bf368bb7e15f55eb3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

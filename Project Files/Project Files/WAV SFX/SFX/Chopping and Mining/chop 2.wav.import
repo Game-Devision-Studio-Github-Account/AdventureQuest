@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ciyeyg032745i"
+path="res://.godot/imported/chop 2.wav-fb19f35ed7d87b9a3cb577c75d0889cd.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Chopping and Mining/chop 2.wav"
+dest_files=["res://.godot/imported/chop 2.wav-fb19f35ed7d87b9a3cb577c75d0889cd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

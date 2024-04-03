@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://n8d524053muv"
+path="res://.godot/imported/1 Exploration INTRO TomMusic.ogg-57045cf4bec66f252dd5406136ef55ed.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Music Loops/1 Exploration INTRO TomMusic.ogg"
+dest_files=["res://.godot/imported/1 Exploration INTRO TomMusic.ogg-57045cf4bec66f252dd5406136ef55ed.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

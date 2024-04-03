@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c04fhclolvu4i"
+path="res://.godot/imported/3 A Magic Forest TomMusic.ogg-e39a821f5ffab549f24ac0bfd19ec09f.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Full tracks/3 A Magic Forest TomMusic.ogg"
+dest_files=["res://.godot/imported/3 A Magic Forest TomMusic.ogg-e39a821f5ffab549f24ac0bfd19ec09f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

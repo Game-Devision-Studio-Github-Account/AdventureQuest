@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bc48e0f1xje6q"
+path="res://.godot/imported/3 A Magic Forest INTRO TomMusic.wav-d195ee2e9316b2e6ae66dc592a8ac491.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV Music/Music Loops/3 A Magic Forest INTRO TomMusic.wav"
+dest_files=["res://.godot/imported/3 A Magic Forest INTRO TomMusic.wav-d195ee2e9316b2e6ae66dc592a8ac491.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

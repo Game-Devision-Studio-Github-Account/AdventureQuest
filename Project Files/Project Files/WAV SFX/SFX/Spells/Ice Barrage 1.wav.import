@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://y3rtb0hrmgg7"
+path="res://.godot/imported/Ice Barrage 1.wav-8ee2a0c5f433b81e9147405518bf2fb7.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Spells/Ice Barrage 1.wav"
+dest_files=["res://.godot/imported/Ice Barrage 1.wav-8ee2a0c5f433b81e9147405518bf2fb7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

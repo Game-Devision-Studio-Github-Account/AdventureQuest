@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://br2l5n205mgl0"
+path="res://.godot/imported/Wood Walk 5.ogg-8884cdcb5bc92bf7bf4e050c7e48d49c.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Footsteps/Wood/Wood Walk 5.ogg"
+dest_files=["res://.godot/imported/Wood Walk 5.ogg-8884cdcb5bc92bf7bf4e050c7e48d49c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bhmklhtexn7kl"
+path="res://.godot/imported/9 Searching Further LOOP TomMusic.ogg-fa225d842a24951b6f32f67cab23933a.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Music Loops/9 Searching Further LOOP TomMusic.ogg"
+dest_files=["res://.godot/imported/9 Searching Further LOOP TomMusic.ogg-fa225d842a24951b6f32f67cab23933a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

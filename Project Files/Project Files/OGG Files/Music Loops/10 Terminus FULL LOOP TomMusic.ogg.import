@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://f31afhic7uvw"
+path="res://.godot/imported/10 Terminus FULL LOOP TomMusic.ogg-5e6727b0e89a971ac4b930d27a8aa45c.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Music Loops/10 Terminus FULL LOOP TomMusic.ogg"
+dest_files=["res://.godot/imported/10 Terminus FULL LOOP TomMusic.ogg-5e6727b0e89a971ac4b930d27a8aa45c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

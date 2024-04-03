@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://t8ai6wajasj0"
+path="res://.godot/imported/Wood Run 2.ogg-24c4007e3d647d42c1c50f617c540f6e.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Footsteps/Wood/Wood Run 2.ogg"
+dest_files=["res://.godot/imported/Wood Run 2.ogg-24c4007e3d647d42c1c50f617c540f6e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

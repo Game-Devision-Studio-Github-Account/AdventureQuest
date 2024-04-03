@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bvur2xcq4nqp4"
+path="res://.godot/imported/7 The Wilderness TomMusic.ogg-6274924390dd83ba8b9e78dc7663878c.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Full tracks/7 The Wilderness TomMusic.ogg"
+dest_files=["res://.godot/imported/7 The Wilderness TomMusic.ogg-6274924390dd83ba8b9e78dc7663878c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

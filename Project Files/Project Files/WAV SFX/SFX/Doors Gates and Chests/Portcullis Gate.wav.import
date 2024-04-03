@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dm3hr23k0ctl8"
+path="res://.godot/imported/Portcullis Gate.wav-e4ad2ea1836789b87f3fa308d1a18b27.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Doors Gates and Chests/Portcullis Gate.wav"
+dest_files=["res://.godot/imported/Portcullis Gate.wav-e4ad2ea1836789b87f3fa308d1a18b27.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

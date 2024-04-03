@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c0lq5qd0sndl3"
+path="res://.godot/imported/Dirt Chain Land.wav-63438f5faec85a965a8789cf5eb30b6c.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Footsteps/Dirt/Dirt Chain Land.wav"
+dest_files=["res://.godot/imported/Dirt Chain Land.wav-63438f5faec85a965a8789cf5eb30b6c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

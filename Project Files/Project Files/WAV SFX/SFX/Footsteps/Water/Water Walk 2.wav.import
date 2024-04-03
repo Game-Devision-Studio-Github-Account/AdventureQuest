@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dnbs1fy4wl827"
+path="res://.godot/imported/Water Walk 2.wav-bc25bbbb4d4e4869d9b2027bf6d04f1e.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Footsteps/Water/Water Walk 2.wav"
+dest_files=["res://.godot/imported/Water Walk 2.wav-bc25bbbb4d4e4869d9b2027bf6d04f1e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

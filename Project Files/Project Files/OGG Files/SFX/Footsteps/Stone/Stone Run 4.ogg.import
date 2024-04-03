@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ii3qv6mb54am"
+path="res://.godot/imported/Stone Run 4.ogg-f743e3920d3776bbff88c4476fa12daf.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Footsteps/Stone/Stone Run 4.ogg"
+dest_files=["res://.godot/imported/Stone Run 4.ogg-f743e3920d3776bbff88c4476fa12daf.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

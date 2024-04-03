@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dc6iwse7shwd7"
+path="res://.godot/imported/5 A Safe Space LOOP TomMusic.ogg-8b0629161cd882b3adcd69371f720d71.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/Music Loops/5 A Safe Space LOOP TomMusic.ogg"
+dest_files=["res://.godot/imported/5 A Safe Space LOOP TomMusic.ogg-8b0629161cd882b3adcd69371f720d71.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

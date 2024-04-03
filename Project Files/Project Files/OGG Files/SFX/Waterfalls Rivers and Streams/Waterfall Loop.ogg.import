@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bv8qymcundc2t"
+path="res://.godot/imported/Waterfall Loop.ogg-5c993a68ab35b1ced118ac4c88d7ab87.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Waterfalls Rivers and Streams/Waterfall Loop.ogg"
+dest_files=["res://.godot/imported/Waterfall Loop.ogg-5c993a68ab35b1ced118ac4c88d7ab87.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

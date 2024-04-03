@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://blvlxlgxapp4b"
+path="res://.godot/imported/Ice Wall 2.wav-7ddaacb82ea221b40b725e04f7dca019.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Spells/Ice Wall 2.wav"
+dest_files=["res://.godot/imported/Ice Wall 2.wav-7ddaacb82ea221b40b725e04f7dca019.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

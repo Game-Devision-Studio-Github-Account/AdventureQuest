@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://byikkejbahmhh"
+path="res://.godot/imported/Stone Jump.ogg-586de609030e88210a53e1d066004840.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Footsteps/Stone/Stone Jump.ogg"
+dest_files=["res://.godot/imported/Stone Jump.ogg-586de609030e88210a53e1d066004840.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://6g474k1odmin"
+path="res://.godot/imported/Dirt Chain Run 4.wav-fe5af6840e4bb51584464d71fdd06d56.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Footsteps/Dirt/Dirt Chain Run 4.wav"
+dest_files=["res://.godot/imported/Dirt Chain Run 4.wav-fe5af6840e4bb51584464d71fdd06d56.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bvy60ejdooq6h"
+path="res://.godot/imported/Fireball 2.ogg-6724886e75531b7106fdc05c9712de0c.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Spells/Fireball 2.ogg"
+dest_files=["res://.godot/imported/Fireball 2.ogg-6724886e75531b7106fdc05c9712de0c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

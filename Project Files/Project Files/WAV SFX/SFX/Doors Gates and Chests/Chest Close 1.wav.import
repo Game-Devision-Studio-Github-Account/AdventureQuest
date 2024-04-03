@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcpqabygfnumn"
+path="res://.godot/imported/Chest Close 1.wav-0b46d94f2eea157f3e3d7a40ddc76a37.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/WAV SFX/SFX/Doors Gates and Chests/Chest Close 1.wav"
+dest_files=["res://.godot/imported/Chest Close 1.wav-0b46d94f2eea157f3e3d7a40ddc76a37.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

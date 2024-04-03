@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://btdpfp7xboce5"
+path="res://.godot/imported/Bow Attack 2.ogg-806dce0fe9d5ac52eecf60dbc00b16c7.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/Project Files/OGG Files/SFX/Attacks/Bow Attacks Hits and Blocks/Bow Attack 2.ogg"
+dest_files=["res://.godot/imported/Bow Attack 2.ogg-806dce0fe9d5ac52eecf60dbc00b16c7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
