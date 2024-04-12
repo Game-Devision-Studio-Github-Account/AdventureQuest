@@ -1,6 +1,6 @@
 [gd_resource type="TileSet" load_steps=3 format=3 uid="uid://dl1fvpdyhl8bf"]
 
-[ext_resource type="Texture2D" uid="uid://b0gcg2uy01wdv" path="res://Project Files/Free Dungeon - Fantasy Dreamland/32x32/FD_Dungeon_Free.png" id="1_kfcwd"]
+[ext_resource type="Texture2D" uid="uid://b0gcg2uy01wdv" path="res://AdventureQuest/Project Files/Project Files/Free Dungeon - Fantasy Dreamland/32x32/FD_Dungeon_Free.png" id="1_kfcwd"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_d1a1d"]
 texture = ExtResource("1_kfcwd")
