@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b80p5ja2x6i52"
+path="res://.godot/imported/2 Journey TomMusic.ogg-5808e211f629284a2f849008ebad4e37.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/Full tracks/2 Journey TomMusic.ogg"
+dest_files=["res://.godot/imported/2 Journey TomMusic.ogg-5808e211f629284a2f849008ebad4e37.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

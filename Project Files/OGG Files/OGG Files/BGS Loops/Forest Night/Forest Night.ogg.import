@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c2oielo06kbpw"
+path="res://.godot/imported/Forest Night.ogg-5a204068069f48e974543ad1c8c69fd9.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/BGS Loops/Forest Night/Forest Night.ogg"
+dest_files=["res://.godot/imported/Forest Night.ogg-5a204068069f48e974543ad1c8c69fd9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

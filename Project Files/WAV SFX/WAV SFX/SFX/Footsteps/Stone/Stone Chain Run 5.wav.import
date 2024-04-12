@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dkdavc55htu2e"
+path="res://.godot/imported/Stone Chain Run 5.wav-0ec2b48d6469fa06c3f0af55e0006553.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/WAV SFX/WAV SFX/SFX/Footsteps/Stone/Stone Chain Run 5.wav"
+dest_files=["res://.godot/imported/Stone Chain Run 5.wav-0ec2b48d6469fa06c3f0af55e0006553.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

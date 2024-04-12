@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b4jbqk2whg37o"
+path="res://.godot/imported/Sea Storm.ogg-f83f98a2a1298a7958e1ab7c6ab82d07.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/BGS Loops/Sea/Sea Storm.ogg"
+dest_files=["res://.godot/imported/Sea Storm.ogg-f83f98a2a1298a7958e1ab7c6ab82d07.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

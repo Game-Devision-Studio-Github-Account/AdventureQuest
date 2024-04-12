@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://55bnothlm45j"
+path="res://.godot/imported/Stone Walk 2.wav-4da67c726ad1a256b6ad6b539b86a2ea.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/WAV SFX/WAV SFX/SFX/Footsteps/Stone/Stone Walk 2.wav"
+dest_files=["res://.godot/imported/Stone Walk 2.wav-4da67c726ad1a256b6ad6b539b86a2ea.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

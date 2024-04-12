@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ptexjvdw8bfr"
+path="res://.godot/imported/Portcullis Gate.ogg-46da97edd5ef45e06356023b7e61477b.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/SFX/Doors Gates and Chests/Portcullis Gate.ogg"
+dest_files=["res://.godot/imported/Portcullis Gate.ogg-46da97edd5ef45e06356023b7e61477b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

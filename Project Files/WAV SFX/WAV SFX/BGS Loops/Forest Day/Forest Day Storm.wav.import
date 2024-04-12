@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ckj122mhxghlk"
+path="res://.godot/imported/Forest Day Storm.wav-ab912c2634d04b3f656ac2d46459b852.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/WAV SFX/WAV SFX/BGS Loops/Forest Day/Forest Day Storm.wav"
+dest_files=["res://.godot/imported/Forest Day Storm.wav-ab912c2634d04b3f656ac2d46459b852.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

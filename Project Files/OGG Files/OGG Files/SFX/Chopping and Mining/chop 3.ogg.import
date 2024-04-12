@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c4sx6oiaqqt2h"
+path="res://.godot/imported/chop 3.ogg-16cf6c53df1ecd9f38a0751c79c71dbc.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/SFX/Chopping and Mining/chop 3.ogg"
+dest_files=["res://.godot/imported/chop 3.ogg-16cf6c53df1ecd9f38a0751c79c71dbc.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

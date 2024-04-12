@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dceqtayxw20ma"
+path="res://.godot/imported/Stone Chain Walk 3.ogg-ae170cfb07a599c2da0abfdb59ff1173.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/SFX/Footsteps/Stone/Stone Chain Walk 3.ogg"
+dest_files=["res://.godot/imported/Stone Chain Walk 3.ogg-ae170cfb07a599c2da0abfdb59ff1173.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

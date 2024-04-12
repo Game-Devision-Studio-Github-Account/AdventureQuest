@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://mj6j5i08f1l7"
+path="res://.godot/imported/Dirt Run 2.wav-5689dde56515797a19b92383915aa70e.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/WAV SFX/WAV SFX/SFX/Footsteps/Dirt/Dirt Run 2.wav"
+dest_files=["res://.godot/imported/Dirt Run 2.wav-5689dde56515797a19b92383915aa70e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

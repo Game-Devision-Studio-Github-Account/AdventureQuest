@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://mhgv4ps1ixcj"
+path="res://.godot/imported/Gate Close.ogg-fc439731ed08a9b5f12aa13d448e3f81.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/SFX/Doors Gates and Chests/Gate Close.ogg"
+dest_files=["res://.godot/imported/Gate Close.ogg-fc439731ed08a9b5f12aa13d448e3f81.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
