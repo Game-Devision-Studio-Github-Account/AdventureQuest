@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdc8lsv83433g"
+path="res://.godot/imported/8 Sanctuary FULL LOOP TomMusic.ogg-d6ea3e9cce0f6097ee3e2fe2b607c59a.oggvorbisstr"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/OGG Files/OGG Files/Music Loops/8 Sanctuary FULL LOOP TomMusic.ogg"
+dest_files=["res://.godot/imported/8 Sanctuary FULL LOOP TomMusic.ogg-d6ea3e9cce0f6097ee3e2fe2b607c59a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

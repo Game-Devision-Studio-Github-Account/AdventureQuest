@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cqviddywr25pq"
+path="res://.godot/imported/1 Exploration TomMusic.wav-a12c5932c84a8a189fdd25393c821a28.sample"
+
+[deps]
+
+source_file="res://AdventureQuest/Project Files/WAV Music/WAV Music/Full tracks/1 Exploration TomMusic.wav"
+dest_files=["res://.godot/imported/1 Exploration TomMusic.wav-a12c5932c84a8a189fdd25393c821a28.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
